@@ -34,7 +34,7 @@ streamlit run app.py
 ```
 ---
 
-##📂 Project Structure
+##📂 Project Structure:
 ```bash
 ├── app.py              # Streamlit web app
 ├── movie_rec.ipynb     # Jupyter Notebook to preprocess data & generate PKL files
@@ -43,5 +43,6 @@ streamlit run app.py
 ```
 ---
 
-##📜 License
+##📜 License:
+
 This project is licensed under the MIT License 
