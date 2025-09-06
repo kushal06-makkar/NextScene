@@ -25,20 +25,23 @@ Install dependencies from `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
+```
+--- 
 
-▶️ Running the App
-Run the Streamlit app locally:
-
-Bash
-
+##▶️ Running the App:
+```bash
 streamlit run app.py
-📂 Project Structure
-Bash
+```
+---
 
-.
+##📂 Project Structure
+```bash
 ├── app.py              # Streamlit web app
 ├── movie_rec.ipynb     # Jupyter Notebook to preprocess data & generate PKL files
 ├── requirements.txt    # Required Python libraries
 └── README.md           # Project documentation
-📜 License
+```
+---
+
+##📜 License
 This project is licensed under the MIT License 
