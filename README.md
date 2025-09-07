@@ -37,7 +37,7 @@ streamlit run app.py
 ## 📂 Project Structure:
 ```bash
 ├── app.py              # Streamlit web app
-├── movie_rec.ipynb     # Jupyter Notebook to preprocess data & generate PKL files
+├── nextscene.ipynb     # Jupyter Notebook to preprocess data & generate PKL files
 ├── requirements.txt    # Required Python libraries
 └── README.md           # Project documentation
 ```
